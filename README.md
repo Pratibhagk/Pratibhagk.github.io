@@ -1,6 +1,6 @@
 # Personal website starter — GitHub Pages
 
-## Fast setup (no command line required)
+## Fast setup
 1. Create a **public** GitHub repository named `YOUR-GITHUB-USERNAME.github.io`.
 2. In the repository, choose **Add file → Upload files**.
 3. Upload `index.html`, `style.css`, `script.js`, and `.nojekyll` from this folder. (Do not upload the zip itself.)
